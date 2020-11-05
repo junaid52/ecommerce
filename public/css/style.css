@@ -1,0 +1,56 @@
+/* color: #00c2cb */
+body {
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+}
+nav {
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.inner-wrapper {
+    
+}
+ul {
+    padding-left: 0;
+    list-style: none;
+    display: inline-block;
+}
+ul li {
+    display: inline-block;
+
+}
+ul li a {
+    color: #00c2cb;
+    padding: 0 40px;
+    font-size: 18px;
+    font-weight: 700;
+}
+ul li a:hover {
+    color: #00c2cb;
+    text-decoration: none;
+}
+.icons-wrapper {
+    padding-right: 30px;
+}
+.shopping-cart {
+    width: 40px;
+    height: 40px;
+    margin-right: 30px;
+}
+.hamburger {
+    width: 40px;
+    height: 40px;
+}
+.ion-icon {
+    vertical-align: middle;
+    margin-left: 10px;
+    font-size: 14px;
+}
+/* .background {
+    background-image: url(../img/shopping-image2.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+} */
